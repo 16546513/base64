@@ -1,0 +1,10 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "实现base64编码、解码",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "license": "ISC"
+}
